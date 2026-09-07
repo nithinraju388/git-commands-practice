@@ -1,1 +1,1 @@
-# Git Commands Practice
+# Git Commands and Their Usage
